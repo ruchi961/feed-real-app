@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "SocialFeed",
+    "slug": "social-feed-app",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0"
+  }
+}

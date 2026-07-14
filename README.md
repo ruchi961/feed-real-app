@@ -1,7 +1,8 @@
 # Laravel/React Social Feed API — Scoring & Ranking
 
 This repository contains a Laravel API backend that returns a personalized feed for mobile clients. It includes a Python `tools/ranking_engine.py` (optional) and a Laravel Artisan command to compute and persist post score components into MySQL (`post_scores` table).
-
+video link : 
+https://drive.google.com/file/d/1iln-V3bUYmUj93_Qvp1fV-JAJX5xS3AN/view?usp=sharing
 ## Quick start
 
 1. Start MySQL and ensure `.env` DB settings are correct.
